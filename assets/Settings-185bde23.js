@@ -1,0 +1,1 @@
+import{j as e,N as t,O as s}from"./index-43c6de5f.js";const r=()=>e.jsxs("div",{children:[e.jsx("h1",{children:"⚙️ Settings Page"}),e.jsxs("nav",{style:{display:"flex",gap:"1rem",justifyContent:"center"},children:[e.jsx(t,{to:"profile",children:"Profile"}),e.jsx(t,{to:"security",children:"Security"})]}),e.jsx(s,{})]});export{r as default};

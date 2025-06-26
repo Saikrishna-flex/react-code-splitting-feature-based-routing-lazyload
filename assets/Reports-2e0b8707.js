@@ -1,0 +1,1 @@
+import{j as s,N as e,O as r}from"./index-43c6de5f.js";function n(){return s.jsxs(s.Fragment,{children:[s.jsx("h1",{children:"📈 Reports Page"}),s.jsxs("nav",{style:{display:"flex",gap:"1rem",justifyContent:"center"},children:[s.jsx(e,{to:"sales",children:"Sales"}),s.jsx(e,{to:"errors",children:"Errors"})]}),s.jsx(r,{})]})}export{n as default};
